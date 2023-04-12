@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "u1/s4LCgxzJBHGcsxc/06kNvYb2XfyF5fT2O3lBZ5iOwaHoHgNwcW9nMc6j2Fsjgb+7LNXM9XCg4fl+nODwx8g==",
+  "success": true,
+  "projectFilePath": "/Users/t0n1nx/University/dot NET/Lab-1/Lab-1.csproj",
+  "expectedPackageFiles": [
+    "/Users/t0n1nx/.nuget/packages/microsoft.extensions.fileproviders.abstractions/7.0.0/microsoft.extensions.fileproviders.abstractions.7.0.0.nupkg.sha512",
+    "/Users/t0n1nx/.nuget/packages/microsoft.extensions.fileproviders.physical/7.0.0/microsoft.extensions.fileproviders.physical.7.0.0.nupkg.sha512",
+    "/Users/t0n1nx/.nuget/packages/microsoft.extensions.filesystemglobbing/7.0.0/microsoft.extensions.filesystemglobbing.7.0.0.nupkg.sha512",
+    "/Users/t0n1nx/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

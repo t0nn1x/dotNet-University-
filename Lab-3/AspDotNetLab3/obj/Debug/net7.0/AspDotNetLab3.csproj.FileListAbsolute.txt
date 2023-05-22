@@ -1,0 +1,54 @@
+C:\Моє\Навчання\2 курс\2 семестр\asp.net\Лабораторна робота 3\AspDotNetLabs\AspDotNetLab3\bin\Debug\net7.0\appsettings.Development.json
+C:\Моє\Навчання\2 курс\2 семестр\asp.net\Лабораторна робота 3\AspDotNetLabs\AspDotNetLab3\bin\Debug\net7.0\appsettings.json
+C:\Моє\Навчання\2 курс\2 семестр\asp.net\Лабораторна робота 3\AspDotNetLabs\AspDotNetLab3\bin\Debug\net7.0\conf.json
+C:\Моє\Навчання\2 курс\2 семестр\asp.net\Лабораторна робота 3\AspDotNetLabs\AspDotNetLab3\bin\Debug\net7.0\AspDotNetLab3.exe
+C:\Моє\Навчання\2 курс\2 семестр\asp.net\Лабораторна робота 3\AspDotNetLabs\AspDotNetLab3\bin\Debug\net7.0\AspDotNetLab3.deps.json
+C:\Моє\Навчання\2 курс\2 семестр\asp.net\Лабораторна робота 3\AspDotNetLabs\AspDotNetLab3\bin\Debug\net7.0\AspDotNetLab3.runtimeconfig.json
+C:\Моє\Навчання\2 курс\2 семестр\asp.net\Лабораторна робота 3\AspDotNetLabs\AspDotNetLab3\bin\Debug\net7.0\AspDotNetLab3.dll
+C:\Моє\Навчання\2 курс\2 семестр\asp.net\Лабораторна робота 3\AspDotNetLabs\AspDotNetLab3\bin\Debug\net7.0\AspDotNetLab3.pdb
+C:\Моє\Навчання\2 курс\2 семестр\asp.net\Лабораторна робота 3\AspDotNetLabs\AspDotNetLab3\obj\Debug\net7.0\AspDotNetLab3.csproj.AssemblyReference.cache
+C:\Моє\Навчання\2 курс\2 семестр\asp.net\Лабораторна робота 3\AspDotNetLabs\AspDotNetLab3\obj\Debug\net7.0\AspDotNetLab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Моє\Навчання\2 курс\2 семестр\asp.net\Лабораторна робота 3\AspDotNetLabs\AspDotNetLab3\obj\Debug\net7.0\AspDotNetLab3.AssemblyInfoInputs.cache
+C:\Моє\Навчання\2 курс\2 семестр\asp.net\Лабораторна робота 3\AspDotNetLabs\AspDotNetLab3\obj\Debug\net7.0\AspDotNetLab3.AssemblyInfo.cs
+C:\Моє\Навчання\2 курс\2 семестр\asp.net\Лабораторна робота 3\AspDotNetLabs\AspDotNetLab3\obj\Debug\net7.0\AspDotNetLab3.csproj.CoreCompileInputs.cache
+C:\Моє\Навчання\2 курс\2 семестр\asp.net\Лабораторна робота 3\AspDotNetLabs\AspDotNetLab3\obj\Debug\net7.0\AspDotNetLab3.MvcApplicationPartsAssemblyInfo.cache
+C:\Моє\Навчання\2 курс\2 семестр\asp.net\Лабораторна робота 3\AspDotNetLabs\AspDotNetLab3\obj\Debug\net7.0\staticwebassets\msbuild.AspDotNetLab3.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Моє\Навчання\2 курс\2 семестр\asp.net\Лабораторна робота 3\AspDotNetLabs\AspDotNetLab3\obj\Debug\net7.0\staticwebassets\msbuild.build.AspDotNetLab3.props
+C:\Моє\Навчання\2 курс\2 семестр\asp.net\Лабораторна робота 3\AspDotNetLabs\AspDotNetLab3\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AspDotNetLab3.props
+C:\Моє\Навчання\2 курс\2 семестр\asp.net\Лабораторна робота 3\AspDotNetLabs\AspDotNetLab3\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AspDotNetLab3.props
+C:\Моє\Навчання\2 курс\2 семестр\asp.net\Лабораторна робота 3\AspDotNetLabs\AspDotNetLab3\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Моє\Навчання\2 курс\2 семестр\asp.net\Лабораторна робота 3\AspDotNetLabs\AspDotNetLab3\obj\Debug\net7.0\staticwebassets.build.json
+C:\Моє\Навчання\2 курс\2 семестр\asp.net\Лабораторна робота 3\AspDotNetLabs\AspDotNetLab3\obj\Debug\net7.0\staticwebassets.development.json
+C:\Моє\Навчання\2 курс\2 семестр\asp.net\Лабораторна робота 3\AspDotNetLabs\AspDotNetLab3\obj\Debug\net7.0\scopedcss\bundle\AspDotNetLab3.styles.css
+C:\Моє\Навчання\2 курс\2 семестр\asp.net\Лабораторна робота 3\AspDotNetLabs\AspDotNetLab3\obj\Debug\net7.0\AspDotNetLab3.dll
+C:\Моє\Навчання\2 курс\2 семестр\asp.net\Лабораторна робота 3\AspDotNetLabs\AspDotNetLab3\obj\Debug\net7.0\refint\AspDotNetLab3.dll
+C:\Моє\Навчання\2 курс\2 семестр\asp.net\Лабораторна робота 3\AspDotNetLabs\AspDotNetLab3\obj\Debug\net7.0\AspDotNetLab3.pdb
+C:\Моє\Навчання\2 курс\2 семестр\asp.net\Лабораторна робота 3\AspDotNetLabs\AspDotNetLab3\obj\Debug\net7.0\AspDotNetLab3.genruntimeconfig.cache
+C:\Моє\Навчання\2 курс\2 семестр\asp.net\Лабораторна робота 3\AspDotNetLabs\AspDotNetLab3\obj\Debug\net7.0\ref\AspDotNetLab3.dll
+C:\Users\Admin\Desktop\Лабораторна робота 3\AspDotNetLabs\AspDotNetLab3\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\Admin\Desktop\Лабораторна робота 3\AspDotNetLabs\AspDotNetLab3\bin\Debug\net7.0\appsettings.json
+C:\Users\Admin\Desktop\Лабораторна робота 3\AspDotNetLabs\AspDotNetLab3\bin\Debug\net7.0\conf.json
+C:\Users\Admin\Desktop\Лабораторна робота 3\AspDotNetLabs\AspDotNetLab3\bin\Debug\net7.0\AspDotNetLab3.exe
+C:\Users\Admin\Desktop\Лабораторна робота 3\AspDotNetLabs\AspDotNetLab3\bin\Debug\net7.0\AspDotNetLab3.deps.json
+C:\Users\Admin\Desktop\Лабораторна робота 3\AspDotNetLabs\AspDotNetLab3\bin\Debug\net7.0\AspDotNetLab3.runtimeconfig.json
+C:\Users\Admin\Desktop\Лабораторна робота 3\AspDotNetLabs\AspDotNetLab3\bin\Debug\net7.0\AspDotNetLab3.dll
+C:\Users\Admin\Desktop\Лабораторна робота 3\AspDotNetLabs\AspDotNetLab3\bin\Debug\net7.0\AspDotNetLab3.pdb
+C:\Users\Admin\Desktop\Лабораторна робота 3\AspDotNetLabs\AspDotNetLab3\obj\Debug\net7.0\AspDotNetLab3.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Лабораторна робота 3\AspDotNetLabs\AspDotNetLab3\obj\Debug\net7.0\AspDotNetLab3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Лабораторна робота 3\AspDotNetLabs\AspDotNetLab3\obj\Debug\net7.0\AspDotNetLab3.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Лабораторна робота 3\AspDotNetLabs\AspDotNetLab3\obj\Debug\net7.0\AspDotNetLab3.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Лабораторна робота 3\AspDotNetLabs\AspDotNetLab3\obj\Debug\net7.0\AspDotNetLab3.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Лабораторна робота 3\AspDotNetLabs\AspDotNetLab3\obj\Debug\net7.0\AspDotNetLab3.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Admin\Desktop\Лабораторна робота 3\AspDotNetLabs\AspDotNetLab3\obj\Debug\net7.0\staticwebassets\msbuild.AspDotNetLab3.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Admin\Desktop\Лабораторна робота 3\AspDotNetLabs\AspDotNetLab3\obj\Debug\net7.0\staticwebassets\msbuild.build.AspDotNetLab3.props
+C:\Users\Admin\Desktop\Лабораторна робота 3\AspDotNetLabs\AspDotNetLab3\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.AspDotNetLab3.props
+C:\Users\Admin\Desktop\Лабораторна робота 3\AspDotNetLabs\AspDotNetLab3\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.AspDotNetLab3.props
+C:\Users\Admin\Desktop\Лабораторна робота 3\AspDotNetLabs\AspDotNetLab3\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\Admin\Desktop\Лабораторна робота 3\AspDotNetLabs\AspDotNetLab3\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\Admin\Desktop\Лабораторна робота 3\AspDotNetLabs\AspDotNetLab3\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\Admin\Desktop\Лабораторна робота 3\AspDotNetLabs\AspDotNetLab3\obj\Debug\net7.0\scopedcss\bundle\AspDotNetLab3.styles.css
+C:\Users\Admin\Desktop\Лабораторна робота 3\AspDotNetLabs\AspDotNetLab3\obj\Debug\net7.0\AspDotNetLab3.dll
+C:\Users\Admin\Desktop\Лабораторна робота 3\AspDotNetLabs\AspDotNetLab3\obj\Debug\net7.0\refint\AspDotNetLab3.dll
+C:\Users\Admin\Desktop\Лабораторна робота 3\AspDotNetLabs\AspDotNetLab3\obj\Debug\net7.0\AspDotNetLab3.pdb
+C:\Users\Admin\Desktop\Лабораторна робота 3\AspDotNetLabs\AspDotNetLab3\obj\Debug\net7.0\AspDotNetLab3.genruntimeconfig.cache
+C:\Users\Admin\Desktop\Лабораторна робота 3\AspDotNetLabs\AspDotNetLab3\obj\Debug\net7.0\ref\AspDotNetLab3.dll

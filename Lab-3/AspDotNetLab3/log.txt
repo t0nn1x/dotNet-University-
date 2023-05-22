@@ -1,0 +1,14 @@
+Now listening on: https://localhost:7294
+Now listening on: http://localhost:5158
+Application started. Press Ctrl+C to shut down.
+Hosting environment: Development
+Content root path: C:\Users\Admin\Desktop\Лабораторна робота 3\AspDotNetLabs\AspDotNetLab3
+Шлях запиту: / | Дата та час: 20.05.2023 17:42 | IP-адреса користувача: 192.168.56.1
+Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
+Шлях запиту: /favicon.ico | Дата та час: 20.05.2023 17:42 | IP-адреса користувача: 192.168.56.1
+Шлях запиту: /Session/View/Name | Дата та час: 20.05.2023 17:42 | IP-адреса користувача: 192.168.56.1
+Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
+Шлях запиту: /Cookie/View/Name | Дата та час: 20.05.2023 17:42 | IP-адреса користувача: 192.168.56.1
+Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
+Шлях запиту: /Home/Index/1 | Дата та час: 20.05.2023 17:42 | IP-адреса користувача: 192.168.56.1
+Unable to configure browser refresh script injection on the response. Consider manually adding '<script src="/_framework/aspnetcore-browser-refresh.js"></script>' to the body of the page.
